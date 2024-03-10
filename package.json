@@ -1,0 +1,19 @@
+{
+  "name": "vectea2",
+  "version": "1.0.0",
+  "description": "This is VecTea a test for TEA.XYZ ",
+  "main": "index.js",
+  "scripts": {
+    "test": "vect"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vectorism/teagarapan.git"
+  },
+  "author": "vectorism",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vectorism/teagarapan/issues"
+  },
+  "homepage": "https://github.com/Vectorism/teagarapan#readme"
+}
